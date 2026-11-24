@@ -1,4 +1,4 @@
-# Hi, I'm Florian 👋
+# Hi, I'm Florian
 
 I build small, practical tools that solve my own everyday problems.
 
